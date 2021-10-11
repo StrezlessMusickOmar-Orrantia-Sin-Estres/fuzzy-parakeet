@@ -1,0 +1,2 @@
+# fuzzy-parakeet
+Spontaneous project
